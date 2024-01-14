@@ -104,7 +104,7 @@ def main():
         print(f"Project has {len(qp.images)} image(s).")
         images = qp.images
         num_images = len(qp.images)
-        num_images = 1
+        #num_images = 1
         for i in range(num_images):
 
             image = images[i]
